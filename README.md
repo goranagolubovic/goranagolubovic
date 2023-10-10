@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Gorana Golubović, Bachelor of Software Engineering
 
 🌱 I’m currently learning Docker and Kubernetes
+
 📫 How to reach me:
 
 E-mail: goranagolubovic8@gmail.com
